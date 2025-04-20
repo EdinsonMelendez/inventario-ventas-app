@@ -1,3 +1,4 @@
+
 # 📘 Proyecto Formativo - Sistema de Ventas e Inventario
 
 Este es el componente **frontend** del proyecto formativo desarrollado como parte del programa Tecnólogo en Análisis y Desarrollo de Software del SENA. Esta aplicación permite gestionar productos, usuarios y ventas, brindando una interfaz intuitiva y eficiente construida con **React JS**.
@@ -37,3 +38,5 @@ Iniciar el servidor de desarrollo:
 npm run dev
 
 Acceder a la aplicación desde: http://localhost:3000/login
+
+
